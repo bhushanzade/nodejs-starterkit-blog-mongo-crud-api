@@ -1,0 +1,9 @@
+{
+  "watch": [
+    "api",
+    "server.js"
+  ],
+  "ignore": [
+    "temporary"
+  ]
+}
